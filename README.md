@@ -1,5 +1,7 @@
 # TwinCAT OSCAT Basic library
 
+This library is deprecated. For new projects it's recommended to use the [AixOCAT library](https://github.com/RWTH-EBC/AixOCAT) instead.
+
 This is a modified version of the OSCAT Basic library, so that it TwinCAT can resolve library dependencies for OSCAT.
 The original is available at http://www.oscat.de/
 
